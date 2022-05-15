@@ -48,7 +48,7 @@
                 <div class="limiter-menu-desktop container">
 
                     <div class="logo">
-                        <a href="index-2.html"><img src="<?php echo base_url() ?>assets/images/bahan/logo/logo.jpeg" alt="LOGO"></a>
+                        <a href="index-2.html"><img src="<?php echo base_url() ?>assets/images/bahan/logo/logo.png" alt="LOGO"></a>
                     </div>
 
                     <div class="menu-desktop">
@@ -63,9 +63,6 @@
                                 <a href="<?php echo base_url('dokumentasi') ?>">Dokumentasi</a>
                             </li>
                             <li>
-                                <a href="<?php echo base_url('legalitas') ?>">Legalitas</a>
-                            </li>
-                            <li>
                                 <a href="<?php echo base_url('produk') ?>">Produk</a>
                             </li>
                         </ul>
@@ -78,7 +75,7 @@
             <div class="wrap-header-mobile">
 
                 <div class="logo-mobile">
-                    <a href="index-2.html"><img src="<?php echo base_url() ?>assets/images/bahan/logo/logo.jpeg" alt="LOGO"></a>
+                    <a href="index-2.html"><img src="<?php echo base_url() ?>assets/images/bahan/logo/logo.png" alt="LOGO"></a>
                 </div>
 
                 <div class="btn-show-menu-mobile hamburger hamburger--squeeze">

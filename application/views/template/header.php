@@ -8,7 +8,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="icon" type="image/jpeg" href="<?php echo base_url(); ?>/assets/images/bahan/logo/logo.jpeg"/>
+	<link rel="icon" type="image/jpeg" href="<?php echo base_url(); ?>/assets/images/bahan/logo/logo.png"/>
 
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/vendor/bootstrap/css/bootstrap.min.css"/>
 
